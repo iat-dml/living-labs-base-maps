@@ -6,7 +6,28 @@ Living Lab, in German or English.
 
 ![Example sheet: Rheingau, A3 landscape](docs/example-rheingau.png)
 
-Each sheet shows:
+## Examples
+
+The German sheets for all five Living Labs, shown here as low-resolution previews (the real
+output is a vector PDF):
+
+<table>
+  <tr>
+    <td align="center" width="50%"><img src="docs/example-east-brandenburg.png" alt="01 East Brandenburg, A3 portrait"><br>01 East Brandenburg · portrait · 1:274,000</td>
+    <td align="center" width="50%"><img src="docs/example-north-hessian-loess.png" alt="03 North Hessian Loess Plain, A3 portrait"><br>03 North Hessian Loess Plain · portrait · 1:310,000</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="docs/example-havelland.png" alt="02 Havelland, A3 landscape"><br>02 Havelland · landscape · 1:212,000</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="docs/example-hessian-low-mountain.png" alt="04 Hessian Low Mountain Range, A3 landscape"><br>04 Hessian Low Mountain Range · landscape · 1:335,000</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="docs/example-rheingau.png" alt="05 Rheingau, A3 landscape"><br>05 Rheingau · landscape · 1:190,000</td>
+  </tr>
+</table>
+
+## What each sheet shows
 
 - **An OpenStreetMap basemap drawn from vector data.** It includes land use, water, railways
   and roads, so it stays sharp at A3.
