@@ -1,0 +1,67 @@
+{
+  "east-brandenburg": {
+    "color": "#9bc72d",
+    "name": {
+      "de": "Ost-Brandenburg",
+      "en": "East Brandenburg"
+    },
+    "num": "01",
+    "outlineColor": "#eb5b25",
+    "region": {
+      "de": "Brandenburg",
+      "en": "Brandenburg"
+    }
+  },
+  "havelland": {
+    "color": "#00b3ad",
+    "name": {
+      "de": "Havelland",
+      "en": "Havelland"
+    },
+    "num": "02",
+    "outlineColor": "#00b3ad",
+    "region": {
+      "de": "Brandenburg",
+      "en": "Brandenburg"
+    }
+  },
+  "hessian-low-mountain": {
+    "color": "#5ec597",
+    "name": {
+      "de": "Hessisches Mittelgebirge",
+      "en": "Hessian Low Mountain Range"
+    },
+    "num": "04",
+    "outlineColor": "#9bc72d",
+    "region": {
+      "de": "Hessen",
+      "en": "Hesse"
+    }
+  },
+  "north-hessian-loess": {
+    "color": "#008581",
+    "name": {
+      "de": "Nordhessische Lössebene",
+      "en": "North Hessian Loess Plain"
+    },
+    "num": "03",
+    "outlineColor": "#359269",
+    "region": {
+      "de": "Hessen",
+      "en": "Hesse"
+    }
+  },
+  "rheingau": {
+    "color": "#359269",
+    "name": {
+      "de": "Rheingau",
+      "en": "Rheingau"
+    },
+    "num": "05",
+    "outlineColor": "#dc4b14",
+    "region": {
+      "de": "Hessen",
+      "en": "Hesse"
+    }
+  }
+}

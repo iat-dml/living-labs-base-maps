@@ -1,0 +1,10 @@
+# Output: regenerable A3 print package, sent on as a zip
+workshop_maps_a3/
+
+# Cached Protomaps OSM extracts (~30 MB per Living Lab, re-downloaded on demand)
+cache/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
